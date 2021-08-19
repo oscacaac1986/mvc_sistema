@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card ">
     <div class="card-header">
         <h1>Agregar empleado</h1>
     </div>
